@@ -51,3 +51,17 @@ provides the detailed formatting.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 20080630-2
++ Revision: 750756
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 20080630-1
++ Revision: 718193
+- texlive-cv
+- texlive-cv
+- texlive-cv
+- texlive-cv
+
