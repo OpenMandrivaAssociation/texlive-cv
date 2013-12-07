@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-cv
 Version:	20080630
-Release:	5
+Release:	6
 Summary:	A package for creating a curriculum vitae
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cv
