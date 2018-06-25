@@ -5,7 +5,7 @@
 # catalog-license gpl
 # catalog-version undef
 Name:		texlive-cv
-Version:	20170414
+Version:	20180303
 Release:	1
 Summary:	A package for creating a curriculum vitae
 Group:		Publishing
