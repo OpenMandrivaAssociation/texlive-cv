@@ -1,6 +1,6 @@
 Name:		texlive-cv
 Version:	15878
-Release:	1
+Release:	2
 Summary:	A package for creating a curriculum vitae
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cv
