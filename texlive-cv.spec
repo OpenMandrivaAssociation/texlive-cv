@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	A package for creating a curriculum vitae
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cv
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/cv
 License:	GPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cv.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cv.doc.r%{version}.tar.xz
